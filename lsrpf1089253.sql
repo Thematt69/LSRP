@@ -45,19 +45,7 @@ CREATE TABLE `compte` (
 --
 
 INSERT INTO `compte` (`id`, `utilisateur`, `mdp`, `prenom`, `nom`, `mail`, `description`, `images`, `newsletters`) VALUES
-(7, 'David Petit', 'petit37000', 'David', 'Petit', 'dadou3700051@gmail.com', 'Gouverneur de cette ville', '\\img\\Sans_titre.png', 'OUI'),
-(8, 'Rudi', 'motdepasse', 'Oleg', 'Koltsov', 'shomakis.2@gmail.com', '', '\\img\\Sans_titre.png', 'OUI'),
-(9, 'Axemen', 'Vivian1998', 'Zach', 'Florrick', 'vivian@pvcb.be', 'J\'aime le chocolat', '\\img\\Sans_titre.png', 'OUI'),
-(15, 'octave', 'chelan32', 'Pedro', 'Minero', 'octavet.maratzu@gmail.com', '', '\\img\\Sans_titre.png', 'OUI'),
-(16, 'paysans01', '060689', 'Robert ', 'Petite Cours', 'Paysans01@gmail.com', '', '\\img\\Sans_titre.png', 'OUI'),
-(17, 'Alain_mich', 'Gokussj3', 'James', 'Rayote', 'alainibara83@gmail.com', '', '\\img\\Sans_titre.png', 'OUI'),
-(18, 'ARIvan', 'Arivan2004', 'Franck', 'Jeferson', 'arivan4@hotmail.fr', '', '\\img\\Sans_titre.png', 'OUI'),
-(19, 'Axeldu45', 'loulou45', 'Bertrand', 'BACHELET', 'delouyesaxel@gmail.com', '', '\\img\\Sans_titre.png', 'OUI'),
-(22, 'Thematt69', 'thematt69', 'Aaron', 'Barton', 'devilliers.matthieu@gmail.com', 'Bla Bla Bla', '\\img\\Sans_titre.png', 'OUI'),
-(23, 'LaPizzaTV', '161194', 'Rivington', 'McReary', 'romila35@hotmail.fr', '', '\\img\\Sans_titre.png', 'OUI'),
-(28, 'mariuslemaitre8970@gmail.com', '12346oiu', 'geral', 'dewet', 'mariuslemaitre8970@gmail.com', '', '\\img\\Sans_titre.png', 'OUI'),
-(29, 'RABELOC', 'DAOmalick122', 'RABELOC', 'JON', 'colonelbike13@gmail.com', '', '\\img\\Sans_titre.png', 'OUI'),
-(30, 'Adam', '666', 'Adam', 'Boug', 'Adam@outlook.fr', '', '\\img\\Sans_titre.png', 'OUI');
+(22, 'Thematt69', 'thematt69', 'Aaron', 'Barton', 'devilliers.matthieu@gmail.com', 'Bla Bla Bla', '\\img\\Sans_titre.png', 'OUI');
 
 -- --------------------------------------------------------
 
